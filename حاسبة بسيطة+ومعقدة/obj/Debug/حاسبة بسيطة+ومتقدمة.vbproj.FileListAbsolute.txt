@@ -1,0 +1,33 @@
+C:\Users\pc\Desktop\المشاريع\حاسبة بسيطة+ومعقدة\حاسبة بسيطة+ومعقدة\bin\Debug\حاسبة بسيطة+ومعقدة.exe.config
+C:\Users\pc\Desktop\المشاريع\حاسبة بسيطة+ومعقدة\حاسبة بسيطة+ومعقدة\bin\Debug\حاسبة بسيطة+ومعقدة.exe
+C:\Users\pc\Desktop\المشاريع\حاسبة بسيطة+ومعقدة\حاسبة بسيطة+ومعقدة\bin\Debug\حاسبة بسيطة+ومعقدة.pdb
+C:\Users\pc\Desktop\المشاريع\حاسبة بسيطة+ومعقدة\حاسبة بسيطة+ومعقدة\bin\Debug\حاسبة بسيطة+ومعقدة.xml
+C:\Users\pc\Desktop\المشاريع\حاسبة بسيطة+ومعقدة\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة بسيطة+ومتقدمة.vbprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\المشاريع\حاسبة بسيطة+ومعقدة\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة_بسيطة_ومعقدة.Form1.resources
+C:\Users\pc\Desktop\المشاريع\حاسبة بسيطة+ومعقدة\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة_بسيطة_ومعقدة.Resources.resources
+C:\Users\pc\Desktop\المشاريع\حاسبة بسيطة+ومعقدة\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة_بسيطة_ومعقدة.حاسبة_متقدمة.resources
+C:\Users\pc\Desktop\المشاريع\حاسبة بسيطة+ومعقدة\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة بسيطة+ومتقدمة.vbproj.GenerateResource.Cache
+C:\Users\pc\Desktop\المشاريع\حاسبة بسيطة+ومعقدة\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة بسيطة+ومعقدة.exe
+C:\Users\pc\Desktop\المشاريع\حاسبة بسيطة+ومعقدة\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة بسيطة+ومعقدة.xml
+C:\Users\pc\Desktop\المشاريع\حاسبة بسيطة+ومعقدة\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة بسيطة+ومعقدة.pdb
+C:\Users\pc\Downloads\calculator2-main\حاسبة بسيطة+ومعقدة\bin\Debug\حاسبة بسيطة+ومعقدة.exe.config
+C:\Users\pc\Downloads\calculator2-main\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة بسيطة+ومعقدة.exe
+C:\Users\pc\Downloads\calculator2-main\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة بسيطة+ومعقدة.xml
+C:\Users\pc\Downloads\calculator2-main\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة بسيطة+ومعقدة.pdb
+C:\Users\pc\Downloads\calculator2-main\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة بسيطة+ومتقدمة.vbprojResolveAssemblyReference.cache
+C:\Users\pc\Downloads\calculator2-main\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة_بسيطة_ومعقدة.Form1.resources
+C:\Users\pc\Downloads\calculator2-main\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة_بسيطة_ومعقدة.Resources.resources
+C:\Users\pc\Downloads\calculator2-main\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة_بسيطة_ومعقدة.حاسبة_متقدمة.resources
+C:\Users\pc\Downloads\calculator2-main\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة بسيطة+ومتقدمة.vbproj.GenerateResource.Cache
+C:\Users\pc\Desktop\المشاريع\مجلد جديد\حاسبة بسيطة+ومعقدة\bin\Debug\حاسبة بسيطة+ومعقدة.exe.config
+C:\Users\pc\Desktop\المشاريع\مجلد جديد\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة بسيطة+ومعقدة.exe
+C:\Users\pc\Desktop\المشاريع\مجلد جديد\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة بسيطة+ومعقدة.xml
+C:\Users\pc\Desktop\المشاريع\مجلد جديد\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة بسيطة+ومعقدة.pdb
+C:\Users\pc\Desktop\المشاريع\مجلد جديد\حاسبة بسيطة+ومعقدة\bin\Debug\حاسبة بسيطة+ومعقدة.exe
+C:\Users\pc\Desktop\المشاريع\مجلد جديد\حاسبة بسيطة+ومعقدة\bin\Debug\حاسبة بسيطة+ومعقدة.pdb
+C:\Users\pc\Desktop\المشاريع\مجلد جديد\حاسبة بسيطة+ومعقدة\bin\Debug\حاسبة بسيطة+ومعقدة.xml
+C:\Users\pc\Desktop\المشاريع\مجلد جديد\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة بسيطة+ومتقدمة.vbprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\المشاريع\مجلد جديد\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة_بسيطة_ومعقدة.Form1.resources
+C:\Users\pc\Desktop\المشاريع\مجلد جديد\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة_بسيطة_ومعقدة.Resources.resources
+C:\Users\pc\Desktop\المشاريع\مجلد جديد\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة_بسيطة_ومعقدة.حاسبة_متقدمة.resources
+C:\Users\pc\Desktop\المشاريع\مجلد جديد\حاسبة بسيطة+ومعقدة\obj\Debug\حاسبة بسيطة+ومتقدمة.vbproj.GenerateResource.Cache
